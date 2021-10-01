@@ -26,7 +26,7 @@ def predict(image, model):
         preds = model(image)
     print(r'Filename: {}- Popularity Rating: {}'.format(filename,preds.item()))
 
-root_dir = "C:/Users/abhim/Desktop/personal-projects/Intrinsic-Image-Popularity-master/Intrinsic-Image-Popularity-master/data"
+root_dir = "root_directory"
 
 
 if __name__ == '__main__':
