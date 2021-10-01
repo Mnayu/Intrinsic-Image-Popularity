@@ -11,7 +11,7 @@ Run ```python test.py --image_path <image_path>``` to evaluate the intrinsic ima
 This is the [Online Demo](https://iipa.ngrok2.xiaomiqiu.cn) (unstable).
 
 ### Dataset
-We provide the dataset of popularity-discriminable image pairs by the form of "shortcode". You can download the images with the URL ```"https://www.instagram.com/p/<shortcode>/media/?size=l".``` 
+The dataset is downloaded from The lourve open access.
 
 *Note, some URLs may be invalid now.*
 
